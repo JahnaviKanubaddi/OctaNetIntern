@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Website Header-Make a trip</title>
+    <link rel="stylesheet" href="Landing.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
+   
+
+</head>
+<body>
+<div class="container">
+    <nav>
+        <img src="images/Img.jpg" class="Logo">
+        <ul>
+            <li><a href="#">Travel Guide</a></li>
+            <li><a href="#">Famous Places</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+        <button class="btn"><i class="fa-thin fa-jet-fighter-up"></i> Bookings </button>
+    </nav>
+
+    <div class="content">
+        <h1>Beautiful<br> Places to Explore</h1>
+        <p>Ensuring that the world heritage sites sustain their outstanding univarsal
+            value is an increasingly challenging mission.here are so many amazing 
+            places around the globe to see, we couldn't possibly include them all in 
+            just one list. But, these breathtaking destinations are definitely worth 
+            bumping to the top of your travel bucket list whether you're looking to 
+            relax on a beach, get off the grid or explore a new international city.These
+             are the most breathtaking locations to consider.</p>
+        <form>
+            <input type="text" placeholder="Country name" length="2">
+            <button type="submit" class="btn">Search</button>
+
+        </form>
+    </div>
+
+        
+    
+</div>
+</body>
+</html>
